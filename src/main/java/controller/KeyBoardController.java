@@ -17,6 +17,18 @@ public class KeyBoardController {
                 case "z":
                     player.goNorth();
                     break;
+
+                /*case "q":
+                    player.goWest();
+                    break;
+
+                case "s":
+                    player.goSouth();
+                    break;
+
+                case "d":
+                    player.goEast();
+                    break; */
             }
 
         }
